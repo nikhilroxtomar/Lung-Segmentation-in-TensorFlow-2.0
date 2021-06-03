@@ -10,8 +10,8 @@ Models to be used in future:
 - more...
 
 # Dataset
-The ISIC-2018 dataset is used for this for training the UNET architecture. The dataset contains the 2596 pairs of images and masks. All of these images are of different shapes and contains a variety of skin lesions.
+The Montgomery dataset is used for this for training the UNET architecture. The dataset contains the 138 pairs of images and masks. All of these images are of different shapes and contains a variety of skin lesions.
 
-Original Image             |  Mask Image
-:-------------------------:|:-------------------------:
-![](img/image.png)  |  ![](img/mask.png)
+Original Image             |  Left Lung Mask           |  Right Lung Mask
+:-------------------------:|:-------------------------:|:-------------------------:
+![](img/image.png)  |  ![](img/left_mask.png) |  ![](img/right_mask.png)
