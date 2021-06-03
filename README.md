@@ -10,6 +10,8 @@ Models to be used in future:
 - more...
 
 # Dataset
+Download the [MontgomerySet](https://academictorrents.com/details/ac786f74878a5775c81d490b23842fd4736bfe33) dataset.
+
 The Montgomery dataset is used for this for training the UNET architecture. The dataset contains the 138 pairs of images and masks. All of these images are of different shapes and contains a variety of skin lesions.
 
 Original Image             |  Left Lung Mask           |  Right Lung Mask
